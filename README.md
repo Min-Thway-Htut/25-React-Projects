@@ -2,3 +2,4 @@
 
 - Accordian
 - Random Color Generator
+- Star Rating
